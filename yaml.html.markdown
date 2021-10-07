@@ -1,6 +1,6 @@
 ---
 language: yaml
-filename: learnyaml.yaml
+filename: learnyaml.ya.ml
 contributors:
 - [Leigh Brenecki, 'https://leigh.net.au']
 - [Suhas SG, 'https://github.com/jargnar']
